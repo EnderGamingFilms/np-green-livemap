@@ -108,26 +108,14 @@ $(function() {
 			enabled: false,
 		},
 		{
-			name: 'Territories',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true,
-		},
-		{
-			name: 'Neutral',
-			icon: 'General/glitches.png',
+			name: 'Storefronts',
+			icon: 'radar/radar_store.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
 			name: 'Automotive',
 			icon: 'radar/radar_acsr_race_hotring.png',
-			type: 'General',
-			enabled: true,
-		},
-		{
-			name: 'Heists',
-			icon: 'radar/radar_heist.png',
 			type: 'General',
 			enabled: true,
 		},

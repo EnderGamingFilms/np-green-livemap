@@ -1,6 +1,6 @@
-NoPixel Territory map
+NoPixel Green Live map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
+[Live page](https://endergamingfilms.github.io/np-green-livemap/)
 This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
 
 ## How to submit new locations
@@ -40,7 +40,7 @@ To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/g
 
 By starring this repository you attract contributors to invest time into maintaing it.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=skyrossm/np-gangmap&type=Date)](https://star-history.com/#skyrossm/np-gangmap)
+[![Star History Chart](https://api.star-history.com/svg?repos=endergamingfilms/np-green-livemap&type=Date)](https://star-history.com/#endergamingfilms/np-green-livemap)
 
 ## Screenshots
 
