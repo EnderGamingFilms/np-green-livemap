@@ -1,6 +1,7 @@
 NoPixel Green Live map
 ====
 [Live page](https://endergamingfilms.github.io/np-green-livemap/)
+[Old Locations](https://github.com/skyrossm/np-gangmap/blob/master/locations.json)
 This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
 
 ## How to submit new locations
